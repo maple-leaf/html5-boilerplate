@@ -13,9 +13,10 @@
   "author": "maple-leaf",
   "license": "ISC",
   "devDependencies": {
-    "gulp-ruby-sass": "~0.7.1",
     "gulp": "~3.8.10",
     "gulp-connect": "~2.2.0",
-    "gulp-sass": "~1.2.4"
+    "gulp-sass": "~1.2.4",
+    "vinyl-paths": "~1.0.0",
+    "del": "~1.1.0"
   }
 }
